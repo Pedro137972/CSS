@@ -1,0 +1,4 @@
+VERSÃO 2 – HTML + CSS (sem JavaScript)
+Abra index.html em um navegador atual (Chrome, Edge, Safari ou Firefox recentes).
+Telas: :target. Acertos: :checked. Estrelas: contadores CSS (somem ao recarregar a página).
+O caça-palavras e a memória marcam acertos quando todas as letras/cartas do par estão viradas.
